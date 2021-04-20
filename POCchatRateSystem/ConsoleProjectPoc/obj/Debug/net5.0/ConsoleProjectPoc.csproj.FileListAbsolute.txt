@@ -1,0 +1,16 @@
+C:\Users\hamza\Documents\GitHub\PocHanyBack\POCchatRateSystem\ConsoleProjectPoc\bin\Debug\net5.0\ConsoleProjectPoc.exe
+C:\Users\hamza\Documents\GitHub\PocHanyBack\POCchatRateSystem\ConsoleProjectPoc\bin\Debug\net5.0\ConsoleProjectPoc.deps.json
+C:\Users\hamza\Documents\GitHub\PocHanyBack\POCchatRateSystem\ConsoleProjectPoc\bin\Debug\net5.0\ConsoleProjectPoc.runtimeconfig.json
+C:\Users\hamza\Documents\GitHub\PocHanyBack\POCchatRateSystem\ConsoleProjectPoc\bin\Debug\net5.0\ConsoleProjectPoc.runtimeconfig.dev.json
+C:\Users\hamza\Documents\GitHub\PocHanyBack\POCchatRateSystem\ConsoleProjectPoc\bin\Debug\net5.0\ConsoleProjectPoc.dll
+C:\Users\hamza\Documents\GitHub\PocHanyBack\POCchatRateSystem\ConsoleProjectPoc\bin\Debug\net5.0\ref\ConsoleProjectPoc.dll
+C:\Users\hamza\Documents\GitHub\PocHanyBack\POCchatRateSystem\ConsoleProjectPoc\bin\Debug\net5.0\ConsoleProjectPoc.pdb
+C:\Users\hamza\Documents\GitHub\PocHanyBack\POCchatRateSystem\ConsoleProjectPoc\obj\Debug\net5.0\ConsoleProjectPoc.csprojAssemblyReference.cache
+C:\Users\hamza\Documents\GitHub\PocHanyBack\POCchatRateSystem\ConsoleProjectPoc\obj\Debug\net5.0\ConsoleProjectPoc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hamza\Documents\GitHub\PocHanyBack\POCchatRateSystem\ConsoleProjectPoc\obj\Debug\net5.0\ConsoleProjectPoc.AssemblyInfoInputs.cache
+C:\Users\hamza\Documents\GitHub\PocHanyBack\POCchatRateSystem\ConsoleProjectPoc\obj\Debug\net5.0\ConsoleProjectPoc.AssemblyInfo.cs
+C:\Users\hamza\Documents\GitHub\PocHanyBack\POCchatRateSystem\ConsoleProjectPoc\obj\Debug\net5.0\ConsoleProjectPoc.csproj.CoreCompileInputs.cache
+C:\Users\hamza\Documents\GitHub\PocHanyBack\POCchatRateSystem\ConsoleProjectPoc\obj\Debug\net5.0\ConsoleProjectPoc.dll
+C:\Users\hamza\Documents\GitHub\PocHanyBack\POCchatRateSystem\ConsoleProjectPoc\obj\Debug\net5.0\ref\ConsoleProjectPoc.dll
+C:\Users\hamza\Documents\GitHub\PocHanyBack\POCchatRateSystem\ConsoleProjectPoc\obj\Debug\net5.0\ConsoleProjectPoc.pdb
+C:\Users\hamza\Documents\GitHub\PocHanyBack\POCchatRateSystem\ConsoleProjectPoc\obj\Debug\net5.0\ConsoleProjectPoc.genruntimeconfig.cache
